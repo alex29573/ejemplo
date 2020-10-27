@@ -1,2 +1,2 @@
 # ejemplo
-esto es un ejemplo : de repositorio
+esto es un ejemplo : https://alex29573.github.io/ejemplo/
